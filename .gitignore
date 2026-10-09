@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.db
+*.sqlite
+*.sqlite3
+venv/
+.venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+frontend/.vite/
+
+# IDEs
+.vscode/
+.idea/
+.run/*.pid
+
+# OS
+.DS_Store
+Thumbs.db
+
+# dotenv
+.env
+backend/.env
+
+# Logs
+*.log
